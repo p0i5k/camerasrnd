@@ -27,6 +27,7 @@ About [Starvis technology](https://www.sony-semicon.co.jp/e/products/IS/security
 | IMX327 | [link](https://drive.google.com/file/d/1uVdGNVjjt0bsaSwUdH_wiukE0Kqcwgjy/view?usp=sharing)
 | IMX307 |
 | IMX335 | [link](https://drive.google.com/file/d/1RM23VCHMuaxBQzVlaLLv9rk6jdOa4uij/view?usp=sharing)
+| IMX377 | [link](https://drive.google.com/file/d/1sTsApSoJRhRrAmGTDTuqI3PFw9iQvv_V/view?usp=sharing)
 | IMX385 |
 | IMX415 | [link](https://drive.google.com/file/d/1U7PwxAbJjVv-MA8FvXVRtVU5kZb3NHl8/view?usp=sharing)
 
